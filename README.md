@@ -20,6 +20,17 @@
 • ✨ I have 3+ months of tech experience in Full Stack Developer.
 <hr>
 
+# About:
+<div>
+            I'm a passionate Full Stack Developer currently honing my skills at
+            PIAIC. On the front-end, I've mastered Next.js and Tailwind CSS,
+            creating responsive and dynamic user interfaces. As I continue my
+            journey, I’m diving deeper into back-end technologies to build
+            comprehensive, full-stack applications. Stay tuned as I continue to
+            expand my skill set and bring innovative ideas to life!
+          
+</div>
+
 # Contact With Me On:
 <a href="mailto:muhammadalwaz91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=email&logoColor=F0DB4F" alt="Muhammad Alwaz - Email"></a>
     <a href="https://www.linkedin.com/in/muhammad-alwaz-0775a92b7" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Muhammad Alwaz-Linkedin"></a><br>
