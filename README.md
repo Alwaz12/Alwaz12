@@ -20,8 +20,8 @@
 • ✨ I have 3+ months of tech experience in Full Stack Developer.
 <hr>
 
-# Conntact With Me On:
-<a href="mailto:muhammadalwaz91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Muhammad Alwaz - Email"></a>
+# Contact With Me On:
+<a href="mailto:muhammadalwaz91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=email&logoColor=F0DB4F" alt="Muhammad Alwaz - Email"></a>
     <a href="https://www.linkedin.com/in/muhammad-alwaz-0775a92b7" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Muhammad Alwaz-Linkedin"></a><br>
     <a href="https://www.facebook.com/profile.php?id=100091643684710&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="Alwaz Ansari- Facebook"></a>
     <a href="https://www.upwork.com/freelancers/~01ffc83ff9d00c1f2a/" target="_blank"><img src="https://img.shields.io/badge/Upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=F0DB4F" alt="Muhammad Alwaz-Upwork"></a>
