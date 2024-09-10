@@ -1,7 +1,7 @@
 <!-- animation start  -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muhammad+Alwaz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer%E2%9C%A8;%E2%9C%A8UI/UX+Designer%E2%9C%A8;%E2%9C%A8+AI+Engineer%E2%9C%A8;%E2%9C%A8AI+Developer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muhammad+Alwaz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer%E2%9C%A8;%E2%9C%A8AI+Developer%E2%9C%A8)](https://git.io/typing-svg)
 
 
 <!-- animation end  -->
