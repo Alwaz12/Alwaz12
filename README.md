@@ -53,6 +53,12 @@ July(10-2024) – August(10-2024) </br>
 1 Month Internship :</br>
 - Full Stack Developer.</br>
 
+<h3>Upwork</h3>
+
+July(2024) – Present </br>
+
+Freelancing:</br>
+
 ## Education:
 <h3>Nasra Secondary School (D.C.H.S) Campos </h3>
 
