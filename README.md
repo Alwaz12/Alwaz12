@@ -39,7 +39,7 @@
 
 
 ## 𝌕 Contact Me
-<a href="https://wa.link/+923471217135" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.link/jhbcyt" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:cs:muhammadalwaz91@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 # Skills:
