@@ -34,7 +34,7 @@
 ## 👨‍💻 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/muhammad-alwaz-0775a92b7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100091643684710&mibextid=ZbWKwL" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100091643684710&mibextid=ZbWKwL/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
 
 
