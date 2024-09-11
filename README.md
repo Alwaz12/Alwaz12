@@ -67,7 +67,7 @@ July(10-2020) – July(10-2022) </br>
 Marticulation, Computer Science :</br>
 - Grade A+.</br>
 
-<h3>Jamia Millia Goverment College (Shah Faisal) Campos </h3>
+<h3>Jamia Millia Goverment College (Shah Faisal) </h3>
 
 August(10-2022) – August(10-2024) </br>
 
