@@ -49,12 +49,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Alwaz12&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alwaz12&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz12&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-#  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alwaz12&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![Alwaz12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 # WORK EXPERIENCE:
 <h3>Bharat Intern</h3>
