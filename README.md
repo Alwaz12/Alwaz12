@@ -52,13 +52,6 @@
 ![Alwaz12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 # WORK EXPERIENCE:
-<h3>Bharat Intern</h3>
-
-July(10-2024) – August(10-2024) </br>
-
-1 Month Internship :</br>
-- Full Stack Developer.</br>
-
 <h3>Upwork</h3>
 
 July(2024) – Present </br>
