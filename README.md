@@ -1,7 +1,7 @@
 <!-- animation start  -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muhammad+Alwaz%E2%9C%A8;%E2%9C%A8Full+Stack+Developer%E2%9C%A8;%E2%9C%A8AI+Developer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Muhammad+Alwaz%E2%9C%A8;%E2%9C%A8Front+End+Developer%E2%9C%A8;%E2%9C%A8AI+Developer%E2%9C%A8)](https://git.io/typing-svg)
 
 
 <!-- animation end  -->
@@ -12,12 +12,12 @@
 
 <hr>
 • 💪🏻 I'm a Web3, and AI Enthusiast.<br>
-• 👨‍💻 I'm a full-stack Developer from Pakistan.<br>
+• 👨‍💻 I'm a front-end Developer from Pakistan.<br>
 • 🌱 I’m currently Learning advanced Programming stuffs.<br> 
 • 📗 I'm currently Learning from PIAIC.<br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.<br> 
 • 🌊 I'm specialize in AI, and Web Development, and I have expertise in Prompt Engineering.<br>
-• ✨ I have 3+ months of tech experience in Full Stack Developer.
+• ✨ I have 3+ months of tech experience in Front-end Developer.
 <hr>
 
 # About:
