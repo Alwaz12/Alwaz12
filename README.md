@@ -22,11 +22,11 @@
 
 # About:
 <div>
-            I'm a passionate Full Stack Developer currently honing my skills at
-            PIAIC. On the front-end, I've mastered Next.js and Tailwind CSS,
+            I'm a passionate Front-End Developer currently honing my skills at
+            PIAIC. On the front-end, I've mastered HTML, CSS and Java,
             creating responsive and dynamic user interfaces. As I continue my
             journey, I’m diving deeper into back-end technologies to build
-            comprehensive, full-stack applications. Stay tuned as I continue to
+            comprehensive, front-end applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           
 </div>
