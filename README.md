@@ -52,9 +52,9 @@
 ![Alwaz12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 # WORK EXPERIENCE:
-<h3>Upwork</h3>
+<h3>Behance</h3>
 
-July(2024) – Present </br>
+December(2024) – Present </br>
 
 Freelancing:</br>
 
@@ -77,7 +77,7 @@ Intermediate, Computer Science :</br>
 
 March(2024) – Present </br>
 
-Certified Cloud Applied Generative AI Engineer :</br>
+Certified Agentic and Robotic AI Engineer :</br>
 
 
 <hr>
