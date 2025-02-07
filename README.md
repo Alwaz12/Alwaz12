@@ -59,7 +59,7 @@ December(2024) – Present </br>
 Freelancing:</br>
 
 # Education:
-<h3>Nasra Secondary School (D.C.H.S) Campus </h3>
+<h3>Nasra Secondary School (D.H.S) Campus </h3>
 
 July(10-2020) – July(10-2022) </br>
 
