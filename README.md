@@ -63,7 +63,7 @@ Freelancing:</br>
 
 July(10-2020) – July(10-2022) </br>
 
-Marticulation, Computer Science :</br>
+Matriculation, Computer Science :</br>
 - Grade A+.</br>
 
 <h3>Jamia Millia Goverment College (Shah Faisal) </h3>
